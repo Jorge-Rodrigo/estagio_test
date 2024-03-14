@@ -7,5 +7,5 @@ for item in range(0, INDICE):
     k += 1
     soma += k
 
-print(soma)
+print(f"O resultado da soma é:{soma}")
 
